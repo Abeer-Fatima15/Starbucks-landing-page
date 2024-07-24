@@ -13,7 +13,7 @@ git clone https://github.com/Abeer-Fatima15/Starbucks-landing-page.git
 This will download the project files to a new folder named Starbucks-landing-page (or whatever you named the folder during cloning).
 
 Option 2: Download the ZIP File (without Git)
-Go to the GitHub repository: https://gist.github.com/abir-taheer
+Go to the GitHub repository:
 Click on the green "Code" button.
 Select "Download ZIP".
 Extract the downloaded ZIP file to a folder on your computer.
